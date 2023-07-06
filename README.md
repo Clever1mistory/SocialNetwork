@@ -8,7 +8,7 @@
 1. Убедитесь, что у вас установлен Python версии 3.7 или выше.
 2. Склонируйте репозиторий:
 
-git clone https://github.com/your/repository.git
+git clone git@github.com:Clever1mistory/SocialNetwork.git
 
 3. Установите зависимости из файла requirements.txt:
 
