@@ -14,7 +14,7 @@ git clone git@github.com:Clever1mistory/SocialNetwork.git
 
 pip install -r requirements.txt
 
-4. Запустите приложение:
+4. Запустите приложение: <ins>Перед запуском убедитесь, что src помечена как source root</ins>
 
 uvicorn src.main:app --reload
 
